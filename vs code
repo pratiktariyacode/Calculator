@@ -1,0 +1,2 @@
+vmArgs": "--module-path lib/ --add-modules javafx.controls",
+"args": "",
